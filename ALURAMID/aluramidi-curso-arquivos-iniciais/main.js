@@ -1,4 +1,4 @@
-function tocasom (seletorAudio) {
+function tocaSom (seletorAudio) {
     const elemento = documento.querySelector(seletorAudio);
 
     if (elemento && elemento.localName === 'audio'){
